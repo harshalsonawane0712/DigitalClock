@@ -1,0 +1,24 @@
+.digitalClock{
+       background-color: #4f1271;
+       width:30%;
+       border: 10px solid #bfacc8;
+       border-radius: 10px;
+       color: white;
+       text-align: center;
+       padding: 5px;
+       /* word-wrap: break-word; */
+       margin: auto;
+       margin-top: 10%;
+}
+
+.day{
+       font-size: 50px;
+       font-weight: bold;
+}
+
+.time{
+       display: flex;
+       justify-content: center;
+       /* flex-wrap: wrap; */
+       font-size: 50px;
+}
